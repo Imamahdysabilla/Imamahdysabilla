@@ -1,6 +1,3 @@
-
-)
-
 # Hai, Saya Imam Ahdy Sabilla 👋
 ### Seorang Web Developer yang sedang belajar
 
@@ -39,13 +36,11 @@ Saya adalah mahasiswa tahun 2022 yang sedang mengejar gelar Sarjana di bidang Il
 - **Kontribusi ke:** 33
 
 ![Total Kontribusi](https://badges.pufler.dev/commits/all/username)
-![Streak Saat Ini](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark)
-![Streak Terpanjang](https://badges.pufler.dev/longest-streak/username)
 
 ---
 
 ### Hubungi Saya 📫
 - **Email:** [imamahdy345@gmail.com](mailto:imamahdy345@gmail.com)
-- **LinkedIn:** [Profil LinkedIn](https://www.linkedin.com/in/imam-ahdy-sabilla-aa20b8256/)
-- **GitHub:** [Profil GitHub](https://github.com/Imamahdysabilla/Imamahdysabilla/edit/main/README.md)
+- **LinkedIn:** (https://www.linkedin.com/in/imam-ahdy-sabilla-aa20b8256/)
+- **GitHub:** (https://github.com/Imamahdysabilla/Imamahdysabilla/edit/main/README.md)
 
