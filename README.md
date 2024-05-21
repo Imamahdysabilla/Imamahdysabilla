@@ -1,5 +1,4 @@
 
-![Header](![Uploading arakan.jpeg…]()
 )
 
 # Hai, Saya Imam Ahdy Sabilla 👋
