@@ -1,10 +1,6 @@
 # Hai, Saya Imam Ahdy Sabilla 👋
 ### Seorang Web Developer yang sedang belajar
 
-![Visits Badge](https://badges.pufler.dev/visits/username/username)
-![Repos Badge](https://badges.pufler.dev/repos/username)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/username)
-
 Saya adalah mahasiswa tahun 2022 yang sedang mengejar gelar Sarjana di bidang Ilmu Komputer 🧑‍🎓 dari Universitas Lampung 🎓. Saya adalah seorang pembelajar yang bersemangat dan selalu ingin belajar serta bekerja di berbagai teknologi dan domain 💡. Saya suka mengeksplorasi teknologi baru dan memanfaatkannya untuk menyelesaikan masalah kehidupan nyata ✨. Selain itu, saya juga senang membimbing dan membantu pemula 👨‍💻. Saat ini, saya sedang mendalami Web Development 🕸️ dan mengembangkan keterampilan saya dalam Struktur Data dan Algoritma 🤓.
 
 ## Teknologi yang Dikuasai 💻
@@ -26,7 +22,6 @@ Saya adalah mahasiswa tahun 2022 yang sedang mengejar gelar Sarjana di bidang Il
 - **Total Masalah:** 33
 - **Kontribusi ke:** 25
 
-![Total Kontribusi](https://badges.pufler.dev/commits/all/username)
 
 ---
 
