@@ -10,11 +10,6 @@ Saya adalah mahasiswa tahun 2022 yang sedang mengejar gelar Sarjana di bidang Il
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 
-## Statistik GitHub Saya 📊
-
-![Statistik GitHub Imam Ahdy Sabilla](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark&count_private=true)
-![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=dark)
-
 ### Statistik GitHub Imam Ahdy Sabilla
 - **Total Bintang:** 7
 - **Total Komit (2022):** 18
